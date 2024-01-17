@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post 1",
+      "article": "J.K Rowling",
+      "createDate": "03/01/2024",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisi quam, sollicitudin vel neque ornare, tincidunt tempor odio. Suspendisse tempor quis augue quis efficitur. Etiam consequat metus ut nunc commodo, sit amet finibus metus tempor. Nunc porta, turpis sit amet rhoncus mattis, orci nibh volutpat metus, sit amet rutrum nisi lacus id dui. Nulla malesuada ipsum nunc, sit amet consequat leo congue non."
+    },
+    {
+      "id": "1",
+      "title": "Post 2",
+      "article": "Thomas Harris",
+      "createDate": "03/01/2024",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisi quam, sollicitudin vel neque ornare, tincidunt tempor odio. Suspendisse tempor quis augue quis efficitur. Etiam consequat metus ut nunc commodo, sit amet finibus metus tempor. Nunc porta, turpis sit amet rhoncus mattis, orci nibh volutpat metus, sit amet rutrum nisi lacus id dui. Nulla malesuada ipsum nunc, sit amet consequat leo congue non."
+    },
+    {
+      "id": "1",
+      "title": "Post 3",
+      "article": "Christine",
+      "createDate": "03/01/2024",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisi quam, sollicitudin vel neque ornare, tincidunt tempor odio. Suspendisse tempor quis augue quis efficitur. Etiam consequat metus ut nunc commodo, sit amet finibus metus tempor. Nunc porta, turpis sit amet rhoncus mattis, orci nibh volutpat metus, sit amet rutrum nisi lacus id dui. Nulla malesuada ipsum nunc, sit amet consequat leo congue non."
+    },
+    {
+      "id": 0,
+      "title": "New Post",
+      "summary": "body of post",
+      "article": "Admin",
+      "createDate": "2024-01-10",
+      "date": "2024-01-08"
+    }
+  ]
+}
