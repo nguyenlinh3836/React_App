@@ -23,7 +23,7 @@ const theme = createTheme({
 const Home = () => {
     const [data, setData] = useState<Post[]>([]);
     const [currentPage, setCurrentPage] = useState(1);
-    const itemsPerPage = 2; // Number of items to display per page
+    const itemsPerPage = 3; // Number of items to display per page
     const history = useHistory();
     const handleCreate = () => {
         history.push('/create');
